@@ -4,7 +4,9 @@ In this module we have been asked that contract owner should be able to mint tok
 ## Description
 
 "I created a smart contract to develop my own ERC20 token and deployed it using [Remix]. This contract includes essential functionalities such as minting tokens, burning tokens, and transferring them between addresses. The contract owner can mint new tokens to any specified address, while any user has the ability to burn or transfer tokens as needed. The deployment and interaction were successfully tested, and a walk-through video has been prepared to demonstrate these features."
-
+- Vedio walkthrough
+  
+  [https://www.loom.com/share/675abbd2a9e54a72aa169875866df8c0?sid=f471155a-ae70-4934-8b1e-91a1ef0e0a3d]
 ## Getting Started
 ![image](https://github.com/user-attachments/assets/36396a74-c2f4-46f9-8ffa-9d4ac8cf92f4)
 
